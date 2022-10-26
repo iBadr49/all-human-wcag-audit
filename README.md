@@ -3,16 +3,23 @@
 
 # WCAG Audit 
 
-Doe een WCAG test op een bestaande website en rapporteer daar over.
+Ik heb een Audit test gedaan voor een bestaande website. <br>
+Website URL: https://vinimini.nl/ 
 
-## Titel Website
+## Vini Mini
 
-Welke website heb je getest? Beschrijf de website en upload een screenshot. 
+Ik heb de ViniMini website getest, dit is een website die voedingssupplementen voor alle kinderen met voedselallergie verkoopt.
 
-Toon een screenshot van het Lighthouse Accessibility test resultaat.
+![image](https://user-images.githubusercontent.com/112857932/198010522-7558bd8e-1eba-4a78-a26e-68131cdbce41.png)
 
-Schrijf een een samenvatting van de test bevindingen.
+## Lighthouse Accessibility Resultaat
 
+<img src="https://user-images.githubusercontent.com/112857932/197503757-5387500e-3ec8-4b97-9767-115486fc2d42.png" width=100% >
+
+
+
+### Samenvating
+ Bevindingen ..
 
 ## Licentie
 
