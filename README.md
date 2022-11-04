@@ -19,7 +19,7 @@ Ik heb de ViniMini website getest, dit is een website die voedingssupplementen v
 
 
 ### Samenvating
- Bevindingen ..
+ViniMini heeft een accessibilty score van 82%, dat komt door een paar problemen die kunnen gefixt worden. De handmatige test liet zien dat de hierachie niet helemaal goed is, ik denk ook dat de afbeeldingen een betere alts kunnen krijgen. 
 
 ## Licentie
 
